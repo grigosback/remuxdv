@@ -24,7 +24,7 @@ discarded, as with Kodi; minimal enhancement layer (MEL) files lose nothing.
 
 ### Install
 
-Download the APK from [Releases](https://github.com/grigosback/jellyfin-androidtv-dovi/releases) and sideload
+Download the APK from [Releases](https://github.com/grigosback/remuxdv/releases) and sideload
 it (for example with adb or an app like "Send Files to TV"). It installs next to the official app.
 
 ### Build
